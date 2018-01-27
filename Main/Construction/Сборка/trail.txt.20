@@ -1,0 +1,33 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.960000 1396 0 0 810 1536 0 0 864 13
+!mem_use INCREASE Blocks 215069, AppSize 36428975, SysSize 43978696
+< 0 0.821333 1178 0 0 693 1536 0 0 864 13
+< 0 0.821333 1060 0 0 693 1536 0 0 864 13
+!%CIДобро пожаловать в Creo Elements/Pro 5.0.
+< 0 0.821333 1062 0 0 693 1536 0 0 864 13
+< 0 0.821333 1075 0 0 693 1536 0 0 864 13
+~ Activate `install_component` `install_component`
+~ Activate `install_component` `Exit`
+~ LButtonArm `main_dlg_cur` `proe_win` \
+9 924 110 0 1 1075 693 1536 864 40874 
+** 0.970576 0.839827 0 1 1
+0.970576 0.708604 L 0 0.821333333 0
+~ Move `main_dlg_cur` `proe_win` \
+9 919 111 0 1537 1075 693 1536 864 40880 
+~ LButtonDisarm `main_dlg_cur` `proe_win` \
+9 919 111 0 0 1075 693 1536 864 40881 
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Select `main_dlg_cur` `MenuBar1` \
+1  `File`
+~ Close `main_dlg_cur` `MenuBar1`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Elements/Pro будет остановлен и любая несохраненная работа будет утеряна.
+!               : Вы действительно хотите выйти?
+~ Activate `UI Message Dialog` `UI Message Dialog`
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

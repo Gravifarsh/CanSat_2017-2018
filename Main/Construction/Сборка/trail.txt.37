@@ -1,0 +1,1976 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.960000 1396 0 0 810 1536 0 0 864 13
+!mem_use INCREASE Blocks 215120, AppSize 36432058, SysSize 43913216
+< 0 0.821333 1178 0 0 693 1536 0 0 864 13
+< 0 0.821333 1060 0 0 693 1536 0 0 864 13
+!%CIДобро пожаловать в Creo Elements/Pro 5.0.
+< 0 0.821333 1062 0 0 693 1536 0 0 864 13
+< 0 0.821333 1075 0 0 693 1536 0 0 864 13
+~ Activate `install_component` `Exit`
+~ Activate `pse_abnorm_exit_dlg` `pse_abnorm_exit_dlg`
+~ Close `pse_abnorm_exit_dlg` `pse_abnorm_exit_dlg`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `lic_exitdlg` `Retry`
+!%CIЛицензия PROE_SSQ восстановлена; вы можете продолжить работу.
+!%CIВосстановлена плавающая лицензия; Вы можете продолжить работу.
+~ Activate `warning` `Ok`
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Elements/Pro будет остановлен и любая несохраненная работа будет утеряна.
+!               : Вы действительно хотите выйти?
+~ Activate `UI Message Dialog` `no`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `lic_exitdlg` `Retry`
+!%CIЛицензия PROE_SSQ восстановлена; вы можете продолжить работу.
+!%CIВосстановлена плавающая лицензия; Вы можете продолжить работу.
+~ Activate `warning` `Ok`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1536 0 0 864 13
+~ Trail `UI Desktop` `UI Desktop` \
+ `DLG_PREVIEW_POST` \
+ `file_open`
+~ Trail `UI Desktop` `UI Desktop` \
+ `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Activate `file_open` `file_open`
+~ Activate `file_open` `desktop_pb`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `Новая папка`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `Новая папка`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `CanSat`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `CanSat`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `Гравицапа 2017-2018`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `Гравицапа 2017-2018`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `Конструкция`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `Конструкция`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `сборка 1`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `сборка 1`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `sborka1.asm`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `sborka1.asm`
+!Command ProCmdModelOpenExe was pushed from the software.
+!06-Dec-17 19:45:18  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\sborka1.asm.11
+!06-Dec-17 19:45:18  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\body_v2.prt.11
+!06-Dec-17 19:45:18  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\body_v2.prt.11
+!06-Dec-17 19:45:18  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\asm0002.asm.1
+!06-Dec-17 19:45:18  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\board_gt.prt.1
+!06-Dec-17 19:45:18  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\board_gt.prt.1
+!06-Dec-17 19:45:18  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\geiger_tube.prt.1
+!sket_eps               7.5
+!mem_use INCREASE Blocks 29500, AppSize 64379465, SysSize 70418544
+!06-Dec-17 19:45:18  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\geiger_tube.prt.1
+!06-Dec-17 19:45:18  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\asm0002.asm.1
+!06-Dec-17 19:45:18  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\mq-7.prt.1
+!06-Dec-17 19:45:18  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\mq-7.prt.1
+!06-Dec-17 19:45:18  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\cdm7160.prt.1
+!06-Dec-17 19:45:18  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\cdm7160.prt.1
+!06-Dec-17 19:45:18  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\krona.prt.1
+!06-Dec-17 19:45:18  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\krona.prt.1
+!06-Dec-17 19:45:18  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\iridium9602.prt.3
+!06-Dec-17 19:45:19  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\iridium9602.prt.3
+!06-Dec-17 19:45:19  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\cover_body_v2.prt.8
+!06-Dec-17 19:45:19  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\cover_body_v2.prt.8
+!06-Dec-17 19:45:19  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\pin.prt.1
+!06-Dec-17 19:45:19  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\pin.prt.1
+!ProgressBarDlg: Regen Started
+!%CIРегенерация SBORKA1 завершена с нестандартным статусом элемента или компонента. Сбойные: 4. 
+~ Timer `UI Desktop` `UI Desktop` \
+ `EmbedBrowserTimer`
+!ProgressBarDlg: Regen Completed
+!06-Dec-17 19:45:19  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\sborka1.asm.11
+< 0 0.821333 1047 0 0 693 1536 0 0 864 13
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 434 277 0 1538 1047 693 1536 864 8703591 
+~ Move `main_dlg_cur` `proe_win` \
+9 353 309 0 1538 1047 693 1536 864 8703593 
+~ Move `main_dlg_cur` `proe_win` \
+9 341 320 0 1538 1047 693 1536 864 8703606 
+~ Move `main_dlg_cur` `proe_win` \
+9 341 318 0 1026 1047 693 1536 864 8703618 
+~ Move `main_dlg_cur` `proe_win` \
+9 341 317 0 1026 1047 693 1536 864 8703627 
+~ Move `main_dlg_cur` `proe_win` \
+9 341 317 0 2 1047 693 1536 864 8703633 
+~ Move `main_dlg_cur` `proe_win` \
+9 341 316 0 1026 1047 693 1536 864 8703648 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 341 316 0 0 1047 693 1536 864 8703657 
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 409 206 0 2 1047 693 1536 864 8704070 
+~ Move `main_dlg_cur` `proe_win` \
+9 405 208 0 1538 1047 693 1536 864 8704071 
+~ Move `main_dlg_cur` `proe_win` \
+9 405 209 0 1026 1047 693 1536 864 8704072 
+~ Move `main_dlg_cur` `proe_win` \
+9 403 211 0 1538 1047 693 1536 864 8704084 
+~ Move `main_dlg_cur` `proe_win` \
+9 400 213 0 1538 1047 693 1536 864 8704094 
+~ Move `main_dlg_cur` `proe_win` \
+9 399 215 0 1538 1047 693 1536 864 8704102 
+~ Move `main_dlg_cur` `proe_win` \
+9 398 216 0 1538 1047 693 1536 864 8704108 
+~ Move `main_dlg_cur` `proe_win` \
+9 397 218 0 1538 1047 693 1536 864 8704117 
+~ Move `main_dlg_cur` `proe_win` \
+9 393 222 0 1538 1047 693 1536 864 8704127 
+~ Move `main_dlg_cur` `proe_win` \
+9 391 226 0 1538 1047 693 1536 864 8704137 
+~ Move `main_dlg_cur` `proe_win` \
+9 390 228 0 1538 1047 693 1536 864 8704143 
+~ Move `main_dlg_cur` `proe_win` \
+9 388 230 0 1538 1047 693 1536 864 8704152 
+~ Move `main_dlg_cur` `proe_win` \
+9 384 236 0 1538 1047 693 1536 864 8704169 
+~ Move `main_dlg_cur` `proe_win` \
+9 384 237 0 1026 1047 693 1536 864 8704176 
+~ Move `main_dlg_cur` `proe_win` \
+9 382 240 0 1538 1047 693 1536 864 8704185 
+~ Move `main_dlg_cur` `proe_win` \
+9 379 243 0 1538 1047 693 1536 864 8704201 
+~ Move `main_dlg_cur` `proe_win` \
+9 379 244 0 1026 1047 693 1536 864 8704211 
+~ Move `main_dlg_cur` `proe_win` \
+9 379 244 0 2 1047 693 1536 864 8704221 
+~ Move `main_dlg_cur` `proe_win` \
+9 378 245 0 1538 1047 693 1536 864 8704232 
+~ Move `main_dlg_cur` `proe_win` \
+9 377 247 0 1538 1047 693 1536 864 8704241 
+~ Move `main_dlg_cur` `proe_win` \
+9 377 247 0 2 1047 693 1536 864 8704253 
+~ Move `main_dlg_cur` `proe_win` \
+9 375 247 0 514 1047 693 1536 864 8704277 
+~ Move `main_dlg_cur` `proe_win` \
+9 376 248 0 1538 1047 693 1536 864 8704291 
+~ Move `main_dlg_cur` `proe_win` \
+9 376 248 0 2 1047 693 1536 864 8704300 
+~ Move `main_dlg_cur` `proe_win` \
+9 375 250 0 1538 1047 693 1536 864 8704307 
+~ Move `main_dlg_cur` `proe_win` \
+9 375 251 0 1026 1047 693 1536 864 8704317 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 375 251 0 0 1047 693 1536 864 8704330 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 364 271 393216 1536 1047 693 1536 864 8704411 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 363 275 393216 1536 1047 693 1536 864 8704451 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 307 372 458752 1536 1047 693 1536 864 8704957 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 307 372 458752 0 1047 693 1536 864 8704983 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 307 372 458752 0 1047 693 1536 864 8705011 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 307 370 458752 1024 1047 693 1536 864 8705277 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 307 370 458752 0 1047 693 1536 864 8705304 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 307 370 458752 0 1047 693 1536 864 8705329 
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 308 364 0 2 1047 693 1536 864 8705515 
+~ Move `main_dlg_cur` `proe_win` \
+9 308 363 0 1026 1047 693 1536 864 8705518 
+~ Move `main_dlg_cur` `proe_win` \
+9 308 363 0 2 1047 693 1536 864 8705521 
+~ Move `main_dlg_cur` `proe_win` \
+9 309 362 0 1538 1047 693 1536 864 8705524 
+~ Move `main_dlg_cur` `proe_win` \
+9 309 361 0 1026 1047 693 1536 864 8705540 
+~ Move `main_dlg_cur` `proe_win` \
+9 309 360 0 1026 1047 693 1536 864 8705544 
+~ Move `main_dlg_cur` `proe_win` \
+9 309 360 0 2 1047 693 1536 864 8705548 
+~ Move `main_dlg_cur` `proe_win` \
+9 309 359 0 1026 1047 693 1536 864 8705556 
+~ Move `main_dlg_cur` `proe_win` \
+9 309 358 0 1026 1047 693 1536 864 8705568 
+~ Move `main_dlg_cur` `proe_win` \
+9 309 357 0 1026 1047 693 1536 864 8705588 
+~ Move `main_dlg_cur` `proe_win` \
+9 309 356 0 1026 1047 693 1536 864 8705608 
+~ Move `main_dlg_cur` `proe_win` \
+9 310 357 0 1538 1047 693 1536 864 8705617 
+~ Move `main_dlg_cur` `proe_win` \
+9 310 355 0 1026 1047 693 1536 864 8705633 
+~ Move `main_dlg_cur` `proe_win` \
+9 311 354 0 1538 1047 693 1536 864 8705646 
+~ Move `main_dlg_cur` `proe_win` \
+9 312 352 0 1538 1047 693 1536 864 8705664 
+~ Move `main_dlg_cur` `proe_win` \
+9 312 350 0 1026 1047 693 1536 864 8705680 
+~ Move `main_dlg_cur` `proe_win` \
+9 312 349 0 1026 1047 693 1536 864 8705695 
+~ Move `main_dlg_cur` `proe_win` \
+9 312 348 0 1026 1047 693 1536 864 8705710 
+~ Move `main_dlg_cur` `proe_win` \
+9 313 347 0 1538 1047 693 1536 864 8705724 
+~ Move `main_dlg_cur` `proe_win` \
+9 312 345 0 1538 1047 693 1536 864 8705741 
+~ Move `main_dlg_cur` `proe_win` \
+9 312 344 0 1026 1047 693 1536 864 8705757 
+~ Move `main_dlg_cur` `proe_win` \
+9 312 344 0 2 1047 693 1536 864 8705824 
+~ Move `main_dlg_cur` `proe_win` \
+9 312 344 0 2 1047 693 1536 864 8706020 
+~ Move `main_dlg_cur` `proe_win` \
+9 312 343 0 1026 1047 693 1536 864 8706029 
+~ Move `main_dlg_cur` `proe_win` \
+9 311 343 0 514 1047 693 1536 864 8706042 
+~ Move `main_dlg_cur` `proe_win` \
+9 310 342 0 1538 1047 693 1536 864 8706054 
+~ Move `main_dlg_cur` `proe_win` \
+9 309 341 0 1538 1047 693 1536 864 8706069 
+~ Move `main_dlg_cur` `proe_win` \
+9 308 340 0 1538 1047 693 1536 864 8706084 
+~ Move `main_dlg_cur` `proe_win` \
+9 307 340 0 514 1047 693 1536 864 8706101 
+~ Move `main_dlg_cur` `proe_win` \
+9 306 339 0 1538 1047 693 1536 864 8706115 
+~ Move `main_dlg_cur` `proe_win` \
+9 304 337 0 1538 1047 693 1536 864 8706129 
+~ Move `main_dlg_cur` `proe_win` \
+9 303 336 0 1538 1047 693 1536 864 8706145 
+~ Move `main_dlg_cur` `proe_win` \
+9 302 336 0 514 1047 693 1536 864 8706158 
+~ Move `main_dlg_cur` `proe_win` \
+9 300 334 0 1538 1047 693 1536 864 8706172 
+~ Move `main_dlg_cur` `proe_win` \
+9 299 333 0 1538 1047 693 1536 864 8706182 
+~ Move `main_dlg_cur` `proe_win` \
+9 298 331 0 1538 1047 693 1536 864 8706195 
+~ Move `main_dlg_cur` `proe_win` \
+9 296 330 0 1538 1047 693 1536 864 8706208 
+~ Move `main_dlg_cur` `proe_win` \
+9 296 327 0 1026 1047 693 1536 864 8706221 
+~ Move `main_dlg_cur` `proe_win` \
+9 295 327 0 514 1047 693 1536 864 8706235 
+~ Move `main_dlg_cur` `proe_win` \
+9 295 326 0 1026 1047 693 1536 864 8706253 
+~ Move `main_dlg_cur` `proe_win` \
+9 292 325 0 1538 1047 693 1536 864 8706267 
+~ Move `main_dlg_cur` `proe_win` \
+9 292 324 0 1026 1047 693 1536 864 8706281 
+~ Move `main_dlg_cur` `proe_win` \
+9 292 322 0 1026 1047 693 1536 864 8706297 
+~ Move `main_dlg_cur` `proe_win` \
+9 291 321 0 1538 1047 693 1536 864 8706312 
+~ Move `main_dlg_cur` `proe_win` \
+9 289 319 0 1538 1047 693 1536 864 8706327 
+~ Move `main_dlg_cur` `proe_win` \
+9 288 317 0 1538 1047 693 1536 864 8706342 
+~ Move `main_dlg_cur` `proe_win` \
+9 288 316 0 1026 1047 693 1536 864 8706354 
+~ Move `main_dlg_cur` `proe_win` \
+9 288 315 0 1026 1047 693 1536 864 8706367 
+~ Move `main_dlg_cur` `proe_win` \
+9 287 313 0 1538 1047 693 1536 864 8706382 
+~ Move `main_dlg_cur` `proe_win` \
+9 286 311 0 1538 1047 693 1536 864 8706396 
+~ Move `main_dlg_cur` `proe_win` \
+9 285 309 0 1538 1047 693 1536 864 8706409 
+~ Move `main_dlg_cur` `proe_win` \
+9 285 307 0 1026 1047 693 1536 864 8706423 
+~ Move `main_dlg_cur` `proe_win` \
+9 284 305 0 1538 1047 693 1536 864 8706436 
+~ Move `main_dlg_cur` `proe_win` \
+9 283 303 0 1538 1047 693 1536 864 8706450 
+~ Move `main_dlg_cur` `proe_win` \
+9 282 302 0 1538 1047 693 1536 864 8706465 
+~ Move `main_dlg_cur` `proe_win` \
+9 282 300 0 1026 1047 693 1536 864 8706482 
+~ Move `main_dlg_cur` `proe_win` \
+9 282 299 0 1026 1047 693 1536 864 8706497 
+~ Move `main_dlg_cur` `proe_win` \
+9 281 297 0 1538 1047 693 1536 864 8706511 
+~ Move `main_dlg_cur` `proe_win` \
+9 281 296 0 1026 1047 693 1536 864 8706527 
+~ Move `main_dlg_cur` `proe_win` \
+9 281 294 0 1026 1047 693 1536 864 8706544 
+~ Move `main_dlg_cur` `proe_win` \
+9 281 292 0 1026 1047 693 1536 864 8706553 
+~ Move `main_dlg_cur` `proe_win` \
+9 279 291 0 1538 1047 693 1536 864 8706565 
+~ Move `main_dlg_cur` `proe_win` \
+9 279 290 0 1026 1047 693 1536 864 8706577 
+~ Move `main_dlg_cur` `proe_win` \
+9 279 288 0 1026 1047 693 1536 864 8706590 
+~ Move `main_dlg_cur` `proe_win` \
+9 279 287 0 1026 1047 693 1536 864 8706609 
+~ Move `main_dlg_cur` `proe_win` \
+9 279 285 0 1026 1047 693 1536 864 8706623 
+~ Move `main_dlg_cur` `proe_win` \
+9 278 282 0 1538 1047 693 1536 864 8706638 
+~ Move `main_dlg_cur` `proe_win` \
+9 278 281 0 1026 1047 693 1536 864 8706648 
+~ Move `main_dlg_cur` `proe_win` \
+9 278 279 0 1026 1047 693 1536 864 8706660 
+~ Move `main_dlg_cur` `proe_win` \
+9 278 276 0 1026 1047 693 1536 864 8706667 
+~ Move `main_dlg_cur` `proe_win` \
+9 278 275 0 1026 1047 693 1536 864 8706674 
+~ Move `main_dlg_cur` `proe_win` \
+9 278 274 0 1026 1047 693 1536 864 8706681 
+~ Move `main_dlg_cur` `proe_win` \
+9 278 273 0 1026 1047 693 1536 864 8706688 
+~ Move `main_dlg_cur` `proe_win` \
+9 278 269 0 1026 1047 693 1536 864 8706700 
+~ Move `main_dlg_cur` `proe_win` \
+9 278 265 0 1026 1047 693 1536 864 8706715 
+~ Move `main_dlg_cur` `proe_win` \
+9 277 264 0 1538 1047 693 1536 864 8706724 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 262 0 1538 1047 693 1536 864 8706730 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 260 0 1026 1047 693 1536 864 8706737 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 260 0 514 1047 693 1536 864 8706743 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 258 0 1026 1047 693 1536 864 8706750 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 257 0 1538 1047 693 1536 864 8706762 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 255 0 1026 1047 693 1536 864 8706770 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 254 0 1026 1047 693 1536 864 8706780 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 253 0 1538 1047 693 1536 864 8706787 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 252 0 1026 1047 693 1536 864 8706793 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 251 0 1538 1047 693 1536 864 8706799 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 251 0 2 1047 693 1536 864 8706816 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 250 0 1026 1047 693 1536 864 8706823 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 249 0 1026 1047 693 1536 864 8706832 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 249 0 514 1047 693 1536 864 8706843 
+~ Move `main_dlg_cur` `proe_win` \
+9 276 247 0 1538 1047 693 1536 864 8706851 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 246 0 1538 1047 693 1536 864 8706861 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 245 0 1026 1047 693 1536 864 8706872 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 245 0 2 1047 693 1536 864 8706877 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 243 0 1026 1047 693 1536 864 8706889 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 243 0 2 1047 693 1536 864 8706895 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 241 0 1026 1047 693 1536 864 8706908 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 239 0 1026 1047 693 1536 864 8706923 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 237 0 1026 1047 693 1536 864 8706934 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 236 0 1026 1047 693 1536 864 8706944 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 235 0 1026 1047 693 1536 864 8706952 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 233 0 1026 1047 693 1536 864 8706961 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 232 0 1026 1047 693 1536 864 8706976 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 232 0 2 1047 693 1536 864 8706992 
+~ Move `main_dlg_cur` `proe_win` \
+9 275 231 0 1026 1047 693 1536 864 8707004 
+~ Move `main_dlg_cur` `proe_win` \
+9 274 230 0 1538 1047 693 1536 864 8707010 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 230 0 514 1047 693 1536 864 8707018 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 229 0 1026 1047 693 1536 864 8707048 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 228 0 1026 1047 693 1536 864 8707064 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 228 0 2 1047 693 1536 864 8707080 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 227 0 1026 1047 693 1536 864 8707087 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 226 0 1026 1047 693 1536 864 8707116 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 225 0 1026 1047 693 1536 864 8707132 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 224 0 1026 1047 693 1536 864 8707140 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 224 0 2 1047 693 1536 864 8707147 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 223 0 1026 1047 693 1536 864 8707158 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 221 0 1026 1047 693 1536 864 8707172 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 220 0 1026 1047 693 1536 864 8707183 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 217 0 1026 1047 693 1536 864 8707196 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 216 0 1026 1047 693 1536 864 8707207 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 214 0 1026 1047 693 1536 864 8707217 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 213 0 1026 1047 693 1536 864 8707225 
+~ Move `main_dlg_cur` `proe_win` \
+9 273 212 0 1026 1047 693 1536 864 8707232 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 273 212 0 0 1047 693 1536 864 8707353 
+~ Select `main_dlg_cur` `MenuBar1` \
+1  `File`
+~ Close `main_dlg_cur` `MenuBar1`
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node1`
+!PIN.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node5`
+~ Drag `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node5`
+!COVER_BODY_V2.PRT
+~ DragEnter `main_dlg_cur` `PHTLeft.AssyTree` \
+5 389 250 1 0 8  \
+2  `main_dlg_w1` `PHTLeft.AssyTree` \
+ `node4` \
+2 1027 555 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 440 234 1 0  \
+ `node4` \
+2 1208 0 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 436 237 1 0  \
+ `node4` \
+2 1194 111 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 362 258 1 0  \
+ `node4` \
+2 930 833 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 355 261 1 0  \
+ `node4` \
+2 902 944 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 355 263 1 0  \
+ `node3` \
+2 902 0 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 351 266 1 0  \
+ `node3` \
+2 888 111 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 351 267 1 0  \
+ `node3` \
+2 888 166 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 347 269 1 0  \
+ `node3` \
+2 875 222 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 343 269 1 0  \
+ `node3` \
+2 861 222 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 343 270 1 0  \
+ `node3` \
+2 861 277 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 339 272 1 0  \
+ `node3` \
+2 847 333 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 339 274 1 0  \
+ `node3` \
+2 847 388 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 339 275 1 0  \
+ `node3` \
+2 847 444 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 335 277 1 0  \
+ `node3` \
+2 833 500 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 332 277 1 0  \
+ `node3` \
+2 819 500 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 332 278 1 0  \
+ `node3` \
+2 819 555 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 332 280 1 0  \
+ `node3` \
+2 819 611 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 328 283 1 0  \
+ `node3` \
+2 805 722 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 328 285 1 0  \
+ `node3` \
+2 805 777 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 324 288 1 0  \
+ `node3` \
+2 791 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 320 291 1 0  \
+ `node2` \
+2 777 0 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 320 299 1 0  \
+ `node2` \
+2 777 277 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 316 301 1 0  \
+ `node2` \
+2 763 333 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 316 299 1 0  \
+ `node2` \
+2 763 277 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 316 297 1 0  \
+ `node2` \
+2 763 222 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 316 294 1 0  \
+ `node2` \
+2 763 111 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 320 293 1 0  \
+ `node2` \
+2 777 55 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 316 291 1 0  \
+ `node2` \
+2 763 0 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 320 290 1 0  \
+ `node3` \
+2 777 944 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 316 288 1 0  \
+ `node3` \
+2 763 888 
+~ Trail `UI Desktop` `UI Desktop` \
+ `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 316 290 1 0  \
+ `node3` \
+2 763 944 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 316 291 1 0  \
+ `node2` \
+2 763 0 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 316 309 1 0  \
+ `node2` \
+2 763 611 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 312 313 1 0  \
+ `node2` \
+2 750 777 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 312 315 1 0  \
+ `node2` \
+2 750 833 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 312 318 1 0  \
+ `node2` \
+2 750 944 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 308 323 1 0  \
+ `node1` \
+2 736 111 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 328 1 0  \
+ `node1` \
+2 722 277 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 329 1 0  \
+ `node1` \
+2 722 333 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 331 1 0  \
+ `node1` \
+2 722 388 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 332 1 0  \
+ `node1` \
+2 722 444 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 334 1 0  \
+ `node1` \
+2 722 500 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 335 1 0  \
+ `node1` \
+2 722 555 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 337 1 0  \
+ `node1` \
+2 722 611 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 339 1 0  \
+ `node1` \
+2 722 666 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 340 1 0  \
+ `node1` \
+2 722 722 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 342 1 0  \
+ `node1` \
+2 722 777 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 343 1 0  \
+ `node1` \
+2 722 833 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 345 1 0  \
+ `node1` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 351 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 353 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 354 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 356 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 358 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 359 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 361 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 362 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 364 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 367 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 369 1 0  \
+ `` \
+2 722 888 
+~ DragOver `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 370 1 0  \
+ `` \
+2 722 888 
+~ DragLeave `main_dlg_cur` `PHTLeft.AssyTree` \
+4 305 370 1 0  \
+ `` \
+2 722 888 
+~ Drop `main_dlg_cur` `PHTLeft.AssyTree` \
+5 305 370 1 0 8  \
+2  `main_dlg_w1` `PHTLeft.AssyTree` \
+ `` \
+2 722 888 
+~ DragFinished `main_dlg_cur` `PHTLeft.AssyTree`
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node2`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Delete`
+~ FocusIn `del_sup_msg` `ok`
+~ Activate `del_sup_msg` `ok`
+!Undo: added rec_id 447 type 5303 
+!
+~ Wheel `main_dlg_cur` `proe_win` \
+9 367 255 393216 0 1047 693 1536 864 8721034 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 367 259 393216 512 1047 693 1536 864 8721071 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 361 276 393216 1024 1047 693 1536 864 8721138 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 351 291 393216 512 1047 693 1536 864 8721214 
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 313 146 0 2 1047 693 1536 864 8721661 
+~ Move `main_dlg_cur` `proe_win` \
+9 314 146 0 514 1047 693 1536 864 8721709 
+~ Move `main_dlg_cur` `proe_win` \
+9 315 146 0 514 1047 693 1536 864 8721713 
+~ Move `main_dlg_cur` `proe_win` \
+9 315 147 0 1026 1047 693 1536 864 8721717 
+~ Move `main_dlg_cur` `proe_win` \
+9 316 148 0 1538 1047 693 1536 864 8721721 
+~ Move `main_dlg_cur` `proe_win` \
+9 317 150 0 1538 1047 693 1536 864 8721725 
+~ Move `main_dlg_cur` `proe_win` \
+9 318 153 0 1538 1047 693 1536 864 8721729 
+~ Move `main_dlg_cur` `proe_win` \
+9 320 157 0 1538 1047 693 1536 864 8721737 
+~ Move `main_dlg_cur` `proe_win` \
+9 321 160 0 1538 1047 693 1536 864 8721742 
+~ Move `main_dlg_cur` `proe_win` \
+9 322 162 0 1538 1047 693 1536 864 8721747 
+~ Move `main_dlg_cur` `proe_win` \
+9 324 166 0 1538 1047 693 1536 864 8721754 
+~ Move `main_dlg_cur` `proe_win` \
+9 325 168 0 1538 1047 693 1536 864 8721760 
+~ Move `main_dlg_cur` `proe_win` \
+9 328 174 0 1538 1047 693 1536 864 8721769 
+~ Move `main_dlg_cur` `proe_win` \
+9 329 179 0 1538 1047 693 1536 864 8721774 
+~ Move `main_dlg_cur` `proe_win` \
+9 331 183 0 1538 1047 693 1536 864 8721783 
+~ Move `main_dlg_cur` `proe_win` \
+9 333 188 0 1538 1047 693 1536 864 8721795 
+~ Move `main_dlg_cur` `proe_win` \
+9 334 191 0 1538 1047 693 1536 864 8721803 
+~ Move `main_dlg_cur` `proe_win` \
+9 335 195 0 1538 1047 693 1536 864 8721810 
+~ Move `main_dlg_cur` `proe_win` \
+9 335 198 0 1026 1047 693 1536 864 8721818 
+~ Move `main_dlg_cur` `proe_win` \
+9 336 199 0 1538 1047 693 1536 864 8721823 
+~ Move `main_dlg_cur` `proe_win` \
+9 336 201 0 1026 1047 693 1536 864 8721830 
+~ Move `main_dlg_cur` `proe_win` \
+9 336 203 0 1026 1047 693 1536 864 8721840 
+~ Move `main_dlg_cur` `proe_win` \
+9 336 204 0 1026 1047 693 1536 864 8721848 
+~ Move `main_dlg_cur` `proe_win` \
+9 337 205 0 1538 1047 693 1536 864 8721856 
+~ Move `main_dlg_cur` `proe_win` \
+9 338 207 0 1538 1047 693 1536 864 8721863 
+~ Move `main_dlg_cur` `proe_win` \
+9 338 207 0 2 1047 693 1536 864 8721877 
+~ Move `main_dlg_cur` `proe_win` \
+9 338 208 0 1026 1047 693 1536 864 8721882 
+~ Move `main_dlg_cur` `proe_win` \
+9 338 209 0 1026 1047 693 1536 864 8721937 
+~ Move `main_dlg_cur` `proe_win` \
+9 338 210 0 1026 1047 693 1536 864 8721961 
+~ Move `main_dlg_cur` `proe_win` \
+9 339 210 0 514 1047 693 1536 864 8721969 
+~ Move `main_dlg_cur` `proe_win` \
+9 339 211 0 1026 1047 693 1536 864 8721977 
+~ Move `main_dlg_cur` `proe_win` \
+9 339 212 0 1026 1047 693 1536 864 8721983 
+~ Move `main_dlg_cur` `proe_win` \
+9 339 212 0 2 1047 693 1536 864 8722002 
+~ Move `main_dlg_cur` `proe_win` \
+9 339 213 0 1026 1047 693 1536 864 8722029 
+~ Move `main_dlg_cur` `proe_win` \
+9 339 214 0 1026 1047 693 1536 864 8722034 
+~ Move `main_dlg_cur` `proe_win` \
+9 339 215 0 1026 1047 693 1536 864 8722039 
+~ Move `main_dlg_cur` `proe_win` \
+9 339 216 0 1026 1047 693 1536 864 8722043 
+~ Move `main_dlg_cur` `proe_win` \
+9 339 216 0 2 1047 693 1536 864 8722055 
+~ Move `main_dlg_cur` `proe_win` \
+9 340 218 0 1538 1047 693 1536 864 8722064 
+~ Move `main_dlg_cur` `proe_win` \
+9 341 220 0 1538 1047 693 1536 864 8722072 
+~ Move `main_dlg_cur` `proe_win` \
+9 342 221 0 1538 1047 693 1536 864 8722077 
+~ Move `main_dlg_cur` `proe_win` \
+9 343 222 0 1538 1047 693 1536 864 8722083 
+~ Move `main_dlg_cur` `proe_win` \
+9 345 225 0 1538 1047 693 1536 864 8722095 
+~ Move `main_dlg_cur` `proe_win` \
+9 346 227 0 1538 1047 693 1536 864 8722104 
+~ Move `main_dlg_cur` `proe_win` \
+9 349 230 0 1538 1047 693 1536 864 8722115 
+~ Move `main_dlg_cur` `proe_win` \
+9 351 232 0 1538 1047 693 1536 864 8722125 
+~ Move `main_dlg_cur` `proe_win` \
+9 354 235 0 1538 1047 693 1536 864 8722131 
+~ Move `main_dlg_cur` `proe_win` \
+9 356 238 0 1538 1047 693 1536 864 8722139 
+~ Move `main_dlg_cur` `proe_win` \
+9 359 240 0 1538 1047 693 1536 864 8722144 
+~ Move `main_dlg_cur` `proe_win` \
+9 363 245 0 1538 1047 693 1536 864 8722152 
+~ Move `main_dlg_cur` `proe_win` \
+9 369 251 0 1538 1047 693 1536 864 8722165 
+~ Move `main_dlg_cur` `proe_win` \
+9 374 257 0 1538 1047 693 1536 864 8722175 
+~ Move `main_dlg_cur` `proe_win` \
+9 375 258 0 1538 1047 693 1536 864 8722181 
+~ Move `main_dlg_cur` `proe_win` \
+9 377 261 0 1538 1047 693 1536 864 8722188 
+~ Move `main_dlg_cur` `proe_win` \
+9 378 263 0 1538 1047 693 1536 864 8722194 
+~ Move `main_dlg_cur` `proe_win` \
+9 378 264 0 1026 1047 693 1536 864 8722200 
+~ Move `main_dlg_cur` `proe_win` \
+9 380 264 0 514 1047 693 1536 864 8722211 
+~ Move `main_dlg_cur` `proe_win` \
+9 384 264 0 514 1047 693 1536 864 8722222 
+~ Move `main_dlg_cur` `proe_win` \
+9 385 265 0 1538 1047 693 1536 864 8722230 
+~ Move `main_dlg_cur` `proe_win` \
+9 388 265 0 514 1047 693 1536 864 8722238 
+~ Move `main_dlg_cur` `proe_win` \
+9 388 265 0 2 1047 693 1536 864 8722246 
+~ Move `main_dlg_cur` `proe_win` \
+9 389 265 0 514 1047 693 1536 864 8722252 
+~ Move `main_dlg_cur` `proe_win` \
+9 391 267 0 1538 1047 693 1536 864 8722260 
+~ Move `main_dlg_cur` `proe_win` \
+9 392 268 0 1538 1047 693 1536 864 8722270 
+~ Move `main_dlg_cur` `proe_win` \
+9 393 268 0 514 1047 693 1536 864 8722275 
+~ Move `main_dlg_cur` `proe_win` \
+9 394 268 0 514 1047 693 1536 864 8722285 
+~ Move `main_dlg_cur` `proe_win` \
+9 396 270 0 1538 1047 693 1536 864 8722295 
+~ Move `main_dlg_cur` `proe_win` \
+9 396 270 0 2 1047 693 1536 864 8722302 
+~ Move `main_dlg_cur` `proe_win` \
+9 398 270 0 514 1047 693 1536 864 8722311 
+~ Move `main_dlg_cur` `proe_win` \
+9 400 271 0 1538 1047 693 1536 864 8722321 
+~ Move `main_dlg_cur` `proe_win` \
+9 401 271 0 514 1047 693 1536 864 8722326 
+~ Move `main_dlg_cur` `proe_win` \
+9 403 271 0 514 1047 693 1536 864 8722334 
+~ Move `main_dlg_cur` `proe_win` \
+9 405 271 0 514 1047 693 1536 864 8722344 
+~ Move `main_dlg_cur` `proe_win` \
+9 409 271 0 514 1047 693 1536 864 8722350 
+~ Move `main_dlg_cur` `proe_win` \
+9 412 273 0 1538 1047 693 1536 864 8722358 
+~ Move `main_dlg_cur` `proe_win` \
+9 415 274 0 1538 1047 693 1536 864 8722367 
+~ Move `main_dlg_cur` `proe_win` \
+9 419 275 0 1538 1047 693 1536 864 8722374 
+~ Move `main_dlg_cur` `proe_win` \
+9 423 275 0 514 1047 693 1536 864 8722383 
+~ Move `main_dlg_cur` `proe_win` \
+9 429 278 0 1538 1047 693 1536 864 8722394 
+~ Move `main_dlg_cur` `proe_win` \
+9 434 278 0 514 1047 693 1536 864 8722404 
+~ Move `main_dlg_cur` `proe_win` \
+9 438 280 0 1538 1047 693 1536 864 8722410 
+~ Move `main_dlg_cur` `proe_win` \
+9 442 280 0 514 1047 693 1536 864 8722421 
+~ Move `main_dlg_cur` `proe_win` \
+9 447 281 0 1538 1047 693 1536 864 8722430 
+~ Move `main_dlg_cur` `proe_win` \
+9 452 284 0 1538 1047 693 1536 864 8722441 
+~ Move `main_dlg_cur` `proe_win` \
+9 453 284 0 514 1047 693 1536 864 8722447 
+~ Move `main_dlg_cur` `proe_win` \
+9 456 284 0 514 1047 693 1536 864 8722455 
+~ Move `main_dlg_cur` `proe_win` \
+9 458 285 0 1538 1047 693 1536 864 8722461 
+~ Move `main_dlg_cur` `proe_win` \
+9 463 286 0 1538 1047 693 1536 864 8722470 
+~ Move `main_dlg_cur` `proe_win` \
+9 467 288 0 1538 1047 693 1536 864 8722478 
+~ Move `main_dlg_cur` `proe_win` \
+9 470 289 0 1538 1047 693 1536 864 8722488 
+~ Move `main_dlg_cur` `proe_win` \
+9 473 289 0 514 1047 693 1536 864 8722494 
+~ Move `main_dlg_cur` `proe_win` \
+9 477 290 0 1538 1047 693 1536 864 8722502 
+~ Move `main_dlg_cur` `proe_win` \
+9 478 290 0 514 1047 693 1536 864 8722508 
+~ Move `main_dlg_cur` `proe_win` \
+9 481 291 0 1538 1047 693 1536 864 8722516 
+~ Move `main_dlg_cur` `proe_win` \
+9 485 292 0 1538 1047 693 1536 864 8722525 
+~ Move `main_dlg_cur` `proe_win` \
+9 487 292 0 514 1047 693 1536 864 8722531 
+~ Move `main_dlg_cur` `proe_win` \
+9 488 292 0 514 1047 693 1536 864 8722539 
+~ Move `main_dlg_cur` `proe_win` \
+9 490 293 0 1538 1047 693 1536 864 8722546 
+~ Move `main_dlg_cur` `proe_win` \
+9 492 293 0 514 1047 693 1536 864 8722555 
+~ Move `main_dlg_cur` `proe_win` \
+9 493 293 0 514 1047 693 1536 864 8722563 
+~ Move `main_dlg_cur` `proe_win` \
+9 494 294 0 1538 1047 693 1536 864 8722573 
+~ Move `main_dlg_cur` `proe_win` \
+9 495 294 0 514 1047 693 1536 864 8722579 
+~ Move `main_dlg_cur` `proe_win` \
+9 496 294 0 514 1047 693 1536 864 8722589 
+~ Move `main_dlg_cur` `proe_win` \
+9 496 295 0 1026 1047 693 1536 864 8722597 
+~ Move `main_dlg_cur` `proe_win` \
+9 496 295 0 2 1047 693 1536 864 8722611 
+~ Move `main_dlg_cur` `proe_win` \
+9 497 295 0 514 1047 693 1536 864 8722693 
+~ Move `main_dlg_cur` `proe_win` \
+9 498 295 0 514 1047 693 1536 864 8722717 
+~ Move `main_dlg_cur` `proe_win` \
+9 499 295 0 514 1047 693 1536 864 8722725 
+~ Move `main_dlg_cur` `proe_win` \
+9 500 295 0 514 1047 693 1536 864 8722734 
+~ Move `main_dlg_cur` `proe_win` \
+9 500 296 0 1026 1047 693 1536 864 8722739 
+~ Move `main_dlg_cur` `proe_win` \
+9 500 296 0 2 1047 693 1536 864 8722744 
+~ Move `main_dlg_cur` `proe_win` \
+9 501 296 0 514 1047 693 1536 864 8722753 
+~ Move `main_dlg_cur` `proe_win` \
+9 503 296 0 514 1047 693 1536 864 8722763 
+~ Move `main_dlg_cur` `proe_win` \
+9 505 296 0 514 1047 693 1536 864 8722773 
+~ Move `main_dlg_cur` `proe_win` \
+9 507 297 0 1538 1047 693 1536 864 8722778 
+~ Move `main_dlg_cur` `proe_win` \
+9 508 297 0 514 1047 693 1536 864 8722787 
+~ Move `main_dlg_cur` `proe_win` \
+9 512 299 0 1538 1047 693 1536 864 8722798 
+~ Move `main_dlg_cur` `proe_win` \
+9 517 300 0 1538 1047 693 1536 864 8722810 
+~ Move `main_dlg_cur` `proe_win` \
+9 521 301 0 1538 1047 693 1536 864 8722818 
+~ Move `main_dlg_cur` `proe_win` \
+9 524 302 0 1538 1047 693 1536 864 8722823 
+~ Move `main_dlg_cur` `proe_win` \
+9 529 303 0 1538 1047 693 1536 864 8722831 
+~ Move `main_dlg_cur` `proe_win` \
+9 535 304 0 1538 1047 693 1536 864 8722840 
+~ Move `main_dlg_cur` `proe_win` \
+9 541 306 0 1538 1047 693 1536 864 8722846 
+~ Move `main_dlg_cur` `proe_win` \
+9 547 308 0 1538 1047 693 1536 864 8722857 
+~ Move `main_dlg_cur` `proe_win` \
+9 557 310 0 1538 1047 693 1536 864 8722867 
+~ Move `main_dlg_cur` `proe_win` \
+9 567 312 0 1538 1047 693 1536 864 8722878 
+~ Move `main_dlg_cur` `proe_win` \
+9 573 313 0 1538 1047 693 1536 864 8722887 
+~ Move `main_dlg_cur` `proe_win` \
+9 575 314 0 1538 1047 693 1536 864 8722892 
+~ Move `main_dlg_cur` `proe_win` \
+9 580 315 0 1538 1047 693 1536 864 8722902 
+~ Move `main_dlg_cur` `proe_win` \
+9 587 316 0 1538 1047 693 1536 864 8722913 
+~ Move `main_dlg_cur` `proe_win` \
+9 591 318 0 1538 1047 693 1536 864 8722920 
+~ Move `main_dlg_cur` `proe_win` \
+9 596 319 0 1538 1047 693 1536 864 8722926 
+~ Move `main_dlg_cur` `proe_win` \
+9 599 320 0 1538 1047 693 1536 864 8722935 
+~ Move `main_dlg_cur` `proe_win` \
+9 601 320 0 514 1047 693 1536 864 8722942 
+~ Move `main_dlg_cur` `proe_win` \
+9 603 320 0 514 1047 693 1536 864 8722953 
+~ Move `main_dlg_cur` `proe_win` \
+9 605 320 0 514 1047 693 1536 864 8722967 
+~ Move `main_dlg_cur` `proe_win` \
+9 606 321 0 1538 1047 693 1536 864 8722977 
+~ Move `main_dlg_cur` `proe_win` \
+9 607 321 0 514 1047 693 1536 864 8722983 
+~ Move `main_dlg_cur` `proe_win` \
+9 607 322 0 1026 1047 693 1536 864 8722989 
+~ Move `main_dlg_cur` `proe_win` \
+9 608 322 0 514 1047 693 1536 864 8723017 
+~ Move `main_dlg_cur` `proe_win` \
+9 607 322 0 514 1047 693 1536 864 8723325 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 607 322 0 0 1047 693 1536 864 8723330 
+>M Chain_oa_sel_CB ProeWin0 612 309 c0 20000 1047 0 0 693 1536 0 0 864 13
+>M RefselMouseMoveCB ProeWin0 612 309 c0 20000 1047 0 0 693 1536 0 0 864 13
+>M Chain_oa_sel_CB ProeWin0 612 309 c0 0 1047 0 0 693 1536 0 0 864 13
+>M Chain_oa_sel_CB ProeWin0 612 309 c0 20000 1047 0 0 693 1536 0 0 864 13
+~ Command `ProCmdEditUndo` 
+!Command ProCmdEditUndoAssemDism was pushed from the software.
+! Executed sub-command ProCmdEditUndoAssem.
+!ProgressBarDlg: Regen Started
+!%CIРегенерация SBORKA1 завершена с нестандартным статусом элемента или компонента. Сбойные: 4. 
+!ProgressBarDlg: Regen Completed
+!%CDЛиния 1 деталь IRIDIUM9602: С момента вычисления массовых свойств модель изменилась. Нужно пересчитать.
+!ProgressBarDlg: Regen Started
+!%CIРегенерация SBORKA1 завершена с нестандартным статусом элемента или компонента. Сбойные: 4. 
+!ProgressBarDlg: Regen Completed
+!%CIДеталь 'BODY_V2' не изменилась с момента последней регенерации.
+!%CIДеталь 'BOARD_GT' не изменилась с момента последней регенерации.
+!%CIДеталь 'GEIGER_TUBE' не изменилась с момента последней регенерации.
+!%CIДеталь 'ASM0002' не изменилась с момента последней регенерации.
+!%CIДеталь 'MQ-7' не изменилась с момента последней регенерации.
+!%CIДеталь 'CDM7160' не изменилась с момента последней регенерации.
+!%CIДеталь 'KRONA' не изменилась с момента последней регенерации.
+!%CIДеталь 'IRIDIUM9602' не изменилась с момента последней регенерации.
+!%CDЛиния 1 деталь IRIDIUM9602: С момента вычисления массовых свойств модель изменилась. Нужно пересчитать.
+!%CIДеталь 'COVER_BODY_V2' не изменилась с момента последней регенерации.
+!%CIДеталь 'PIN' не изменилась с момента последней регенерации.
+>M Chain_oa_sel_CB ProeWin0 612 309 c0 0 1047 0 0 693 1536 0 0 864 13
+>M Chain_oa_sel_CB ProeWin0 612 309 c0 20000 1047 0 0 693 1536 0 0 864 13
+>M RefselMouseMoveCB ProeWin0 608 309 40 20000 1047 0 0 693 1536 0 0 864 13
+>M RefselMouseMoveCB ProeWin0 597 311 c0 20000 1047 0 0 693 1536 0 0 864 13
+>M RefselMouseMoveCB ProeWin0 575 313 40 20000 1047 0 0 693 1536 0 0 864 13
+>M RefselMouseMoveCB ProeWin0 571 299 80 20000 1047 0 0 693 1536 0 0 864 13
+>M Chain_oa_sel_CB ProeWin0 571 295 c0 0 1047 0 0 693 1536 0 0 864 13
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1536 0 0 864 13
+~ Trail `UI Desktop` `UI Desktop` \
+ `DLG_PREVIEW_POST` \
+ `file_open`
+~ Trail `UI Desktop` `UI Desktop` \
+ `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `sborka2_a.asm`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `sborka2_a.asm`
+!Command ProCmdModelOpenExe was pushed from the software.
+< 2 0.666000 666 0 0 666 1536 0 0 864 13
+< 2 0.892444 947 0 0 753 1536 0 0 864 13
+< 2 0.821333 1073 0 0 693 1536 0 0 864 13
+!06-Dec-17 19:45:46  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\sborka2_a.asm.1
+!06-Dec-17 19:45:46  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\microkontroller.prt.1
+!06-Dec-17 19:45:46  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\microkontroller.prt.1
+!Mechanism Design Command Script File
+!	Version: 	L_03_52:spg
+!	Platform:	x86e_win64
+!	Created: 	06.12.2017 at 19:45:50
+!ProgressBarDlg: Regen Started
+< 2 0.821333 1060 0 0 693 1536 0 0 864 13
+!ProgressBarDlg: Regen Completed
+!06-Dec-17 19:45:51  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\sborka2_a.asm.1
+< 2 0.821333 1034 0 0 693 1536 0 0 864 13
+< 2 0.821333 1047 0 0 693 1536 0 0 864 13
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 702 354 0 1538 1047 693 1536 864 8735349 
+~ Move `main_dlg_cur` `proe_win` \
+9 702 354 0 2 1047 693 1536 864 8735350 
+~ Move `main_dlg_cur` `proe_win` \
+9 702 353 0 1026 1047 693 1536 864 8735360 
+~ Move `main_dlg_cur` `proe_win` \
+9 702 352 0 1026 1047 693 1536 864 8735369 
+~ Move `main_dlg_cur` `proe_win` \
+9 704 349 0 1538 1047 693 1536 864 8735404 
+~ Move `main_dlg_cur` `proe_win` \
+9 704 347 0 1026 1047 693 1536 864 8735409 
+~ Move `main_dlg_cur` `proe_win` \
+9 705 346 0 1538 1047 693 1536 864 8735433 
+~ Move `main_dlg_cur` `proe_win` \
+9 704 345 0 1538 1047 693 1536 864 8735442 
+~ Move `main_dlg_cur` `proe_win` \
+9 705 345 0 514 1047 693 1536 864 8735453 
+~ Move `main_dlg_cur` `proe_win` \
+9 705 343 0 1026 1047 693 1536 864 8735471 
+~ Move `main_dlg_cur` `proe_win` \
+9 708 341 0 1538 1047 693 1536 864 8735487 
+~ Move `main_dlg_cur` `proe_win` \
+9 708 340 0 1026 1047 693 1536 864 8735505 
+~ Move `main_dlg_cur` `proe_win` \
+9 709 337 0 1538 1047 693 1536 864 8735523 
+~ Move `main_dlg_cur` `proe_win` \
+9 711 335 0 1538 1047 693 1536 864 8735537 
+~ Move `main_dlg_cur` `proe_win` \
+9 712 332 0 1538 1047 693 1536 864 8735552 
+~ Move `main_dlg_cur` `proe_win` \
+9 715 329 0 1538 1047 693 1536 864 8735569 
+~ Move `main_dlg_cur` `proe_win` \
+9 717 325 0 1538 1047 693 1536 864 8735581 
+~ Move `main_dlg_cur` `proe_win` \
+9 718 324 0 1538 1047 693 1536 864 8735594 
+~ Move `main_dlg_cur` `proe_win` \
+9 719 321 0 1538 1047 693 1536 864 8735605 
+~ Move `main_dlg_cur` `proe_win` \
+9 721 320 0 1538 1047 693 1536 864 8735619 
+~ Move `main_dlg_cur` `proe_win` \
+9 722 318 0 1538 1047 693 1536 864 8735629 
+~ Move `main_dlg_cur` `proe_win` \
+9 725 316 0 1538 1047 693 1536 864 8735642 
+~ Move `main_dlg_cur` `proe_win` \
+9 725 315 0 1026 1047 693 1536 864 8735656 
+~ Move `main_dlg_cur` `proe_win` \
+9 731 319 0 1538 1047 693 1536 864 8735864 
+~ Move `main_dlg_cur` `proe_win` \
+9 732 319 0 514 1047 693 1536 864 8735869 
+~ Move `main_dlg_cur` `proe_win` \
+9 735 320 0 1538 1047 693 1536 864 8735881 
+~ Move `main_dlg_cur` `proe_win` \
+9 736 320 0 514 1047 693 1536 864 8735892 
+~ Move `main_dlg_cur` `proe_win` \
+9 740 320 0 514 1047 693 1536 864 8735901 
+~ Move `main_dlg_cur` `proe_win` \
+9 744 320 0 514 1047 693 1536 864 8735918 
+~ Move `main_dlg_cur` `proe_win` \
+9 748 322 0 1538 1047 693 1536 864 8735931 
+~ Move `main_dlg_cur` `proe_win` \
+9 752 322 0 514 1047 693 1536 864 8735944 
+~ Move `main_dlg_cur` `proe_win` \
+9 756 323 0 1538 1047 693 1536 864 8735961 
+~ Move `main_dlg_cur` `proe_win` \
+9 758 323 0 514 1047 693 1536 864 8735967 
+~ Move `main_dlg_cur` `proe_win` \
+9 760 324 0 1538 1047 693 1536 864 8735979 
+~ Move `main_dlg_cur` `proe_win` \
+9 763 326 0 1538 1047 693 1536 864 8735993 
+~ Move `main_dlg_cur` `proe_win` \
+9 765 328 0 1538 1047 693 1536 864 8736001 
+~ Move `main_dlg_cur` `proe_win` \
+9 767 328 0 514 1047 693 1536 864 8736011 
+~ Move `main_dlg_cur` `proe_win` \
+9 769 329 0 1538 1047 693 1536 864 8736024 
+~ Move `main_dlg_cur` `proe_win` \
+9 772 331 0 1538 1047 693 1536 864 8736034 
+~ Move `main_dlg_cur` `proe_win` \
+9 775 333 0 1538 1047 693 1536 864 8736044 
+~ Move `main_dlg_cur` `proe_win` \
+9 777 335 0 1538 1047 693 1536 864 8736056 
+~ Move `main_dlg_cur` `proe_win` \
+9 780 336 0 1538 1047 693 1536 864 8736070 
+~ Move `main_dlg_cur` `proe_win` \
+9 782 337 0 1538 1047 693 1536 864 8736081 
+~ Move `main_dlg_cur` `proe_win` \
+9 783 338 0 1538 1047 693 1536 864 8736108 
+~ Move `main_dlg_cur` `proe_win` \
+9 786 340 0 1538 1047 693 1536 864 8736302 
+~ Move `main_dlg_cur` `proe_win` \
+9 787 340 0 514 1047 693 1536 864 8736309 
+~ Move `main_dlg_cur` `proe_win` \
+9 791 341 0 1538 1047 693 1536 864 8736317 
+~ Move `main_dlg_cur` `proe_win` \
+9 795 344 0 1538 1047 693 1536 864 8736331 
+~ Move `main_dlg_cur` `proe_win` \
+9 802 345 0 1538 1047 693 1536 864 8736345 
+~ Move `main_dlg_cur` `proe_win` \
+9 805 347 0 1538 1047 693 1536 864 8736357 
+~ Move `main_dlg_cur` `proe_win` \
+9 809 348 0 1538 1047 693 1536 864 8736368 
+~ Move `main_dlg_cur` `proe_win` \
+9 815 351 0 1538 1047 693 1536 864 8736382 
+~ Move `main_dlg_cur` `proe_win` \
+9 821 352 0 1538 1047 693 1536 864 8736405 
+~ Move `main_dlg_cur` `proe_win` \
+9 824 354 0 1538 1047 693 1536 864 8736414 
+~ Move `main_dlg_cur` `proe_win` \
+9 827 354 0 514 1047 693 1536 864 8736429 
+~ Move `main_dlg_cur` `proe_win` \
+9 827 354 0 2 1047 693 1536 864 8736440 
+~ Move `main_dlg_cur` `proe_win` \
+9 827 355 0 1026 1047 693 1536 864 8736465 
+~ Move `main_dlg_cur` `proe_win` \
+9 828 355 0 514 1047 693 1536 864 8736624 
+~ Move `main_dlg_cur` `proe_win` \
+9 829 356 0 1538 1047 693 1536 864 8736637 
+~ Move `main_dlg_cur` `proe_win` \
+9 830 357 0 1538 1047 693 1536 864 8736646 
+~ Move `main_dlg_cur` `proe_win` \
+9 832 360 0 1538 1047 693 1536 864 8736659 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 363 0 1538 1047 693 1536 864 8736671 
+~ Move `main_dlg_cur` `proe_win` \
+9 835 367 0 1538 1047 693 1536 864 8736686 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 370 0 1538 1047 693 1536 864 8736703 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 372 0 1026 1047 693 1536 864 8736717 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 375 0 1538 1047 693 1536 864 8736731 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 377 0 1026 1047 693 1536 864 8736748 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 381 0 1538 1047 693 1536 864 8736768 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 384 0 1026 1047 693 1536 864 8736780 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 387 0 1026 1047 693 1536 864 8736802 
+~ Move `main_dlg_cur` `proe_win` \
+9 840 389 0 1538 1047 693 1536 864 8736813 
+~ Move `main_dlg_cur` `proe_win` \
+9 840 391 0 1026 1047 693 1536 864 8736825 
+~ Move `main_dlg_cur` `proe_win` \
+9 841 393 0 1538 1047 693 1536 864 8736840 
+~ Move `main_dlg_cur` `proe_win` \
+9 841 396 0 1026 1047 693 1536 864 8736851 
+~ Move `main_dlg_cur` `proe_win` \
+9 840 397 0 1538 1047 693 1536 864 8736865 
+~ Move `main_dlg_cur` `proe_win` \
+9 841 400 0 1538 1047 693 1536 864 8736879 
+~ Move `main_dlg_cur` `proe_win` \
+9 841 401 0 1026 1047 693 1536 864 8736893 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 403 0 1538 1047 693 1536 864 8736903 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 404 0 1026 1047 693 1536 864 8736916 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 407 0 1026 1047 693 1536 864 8736930 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 408 0 1026 1047 693 1536 864 8736943 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 410 0 1026 1047 693 1536 864 8736957 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 411 0 1026 1047 693 1536 864 8736970 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 414 0 1026 1047 693 1536 864 8736990 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 416 0 1026 1047 693 1536 864 8737004 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 418 0 1026 1047 693 1536 864 8737017 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 420 0 1026 1047 693 1536 864 8737030 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 422 0 1026 1047 693 1536 864 8737043 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 425 0 1026 1047 693 1536 864 8737057 
+~ Move `main_dlg_cur` `proe_win` \
+9 841 429 0 1538 1047 693 1536 864 8737073 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 431 0 1538 1047 693 1536 864 8737085 
+~ Move `main_dlg_cur` `proe_win` \
+9 840 433 0 1538 1047 693 1536 864 8737100 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 437 0 1538 1047 693 1536 864 8737117 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 440 0 1026 1047 693 1536 864 8737130 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 443 0 1538 1047 693 1536 864 8737142 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 445 0 1026 1047 693 1536 864 8737154 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 449 0 1538 1047 693 1536 864 8737166 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 452 0 1026 1047 693 1536 864 8737181 
+~ Move `main_dlg_cur` `proe_win` \
+9 835 455 0 1538 1047 693 1536 864 8737193 
+~ Move `main_dlg_cur` `proe_win` \
+9 834 458 0 1538 1047 693 1536 864 8737208 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 460 0 1538 1047 693 1536 864 8737220 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 464 0 1026 1047 693 1536 864 8737234 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 465 0 1026 1047 693 1536 864 8737244 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 468 0 1026 1047 693 1536 864 8737253 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 468 0 2 1047 693 1536 864 8737260 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 471 0 1026 1047 693 1536 864 8737267 
+~ Move `main_dlg_cur` `proe_win` \
+9 832 473 0 1538 1047 693 1536 864 8737277 
+~ Move `main_dlg_cur` `proe_win` \
+9 830 476 0 1538 1047 693 1536 864 8737289 
+~ Move `main_dlg_cur` `proe_win` \
+9 830 480 0 1026 1047 693 1536 864 8737297 
+~ Move `main_dlg_cur` `proe_win` \
+9 829 482 0 1538 1047 693 1536 864 8737306 
+~ Move `main_dlg_cur` `proe_win` \
+9 829 484 0 1026 1047 693 1536 864 8737317 
+~ Move `main_dlg_cur` `proe_win` \
+9 827 489 0 1538 1047 693 1536 864 8737330 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 494 0 1538 1047 693 1536 864 8737342 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 496 0 1026 1047 693 1536 864 8737353 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 500 0 1026 1047 693 1536 864 8737366 
+~ Move `main_dlg_cur` `proe_win` \
+9 825 501 0 1538 1047 693 1536 864 8737376 
+~ Move `main_dlg_cur` `proe_win` \
+9 824 506 0 1538 1047 693 1536 864 8737391 
+~ Move `main_dlg_cur` `proe_win` \
+9 823 509 0 1538 1047 693 1536 864 8737403 
+~ Move `main_dlg_cur` `proe_win` \
+9 822 513 0 1538 1047 693 1536 864 8737415 
+~ Move `main_dlg_cur` `proe_win` \
+9 821 516 0 1538 1047 693 1536 864 8737426 
+~ Move `main_dlg_cur` `proe_win` \
+9 819 521 0 1538 1047 693 1536 864 8737441 
+~ Move `main_dlg_cur` `proe_win` \
+9 819 523 0 1026 1047 693 1536 864 8737449 
+~ Move `main_dlg_cur` `proe_win` \
+9 818 525 0 1538 1047 693 1536 864 8737461 
+~ Move `main_dlg_cur` `proe_win` \
+9 818 527 0 1026 1047 693 1536 864 8737472 
+~ Move `main_dlg_cur` `proe_win` \
+9 817 530 0 1538 1047 693 1536 864 8737481 
+~ Move `main_dlg_cur` `proe_win` \
+9 817 531 0 1026 1047 693 1536 864 8737491 
+~ Move `main_dlg_cur` `proe_win` \
+9 816 534 0 1538 1047 693 1536 864 8737498 
+~ Move `main_dlg_cur` `proe_win` \
+9 815 537 0 1538 1047 693 1536 864 8737508 
+~ Move `main_dlg_cur` `proe_win` \
+9 814 538 0 1538 1047 693 1536 864 8737516 
+~ Move `main_dlg_cur` `proe_win` \
+9 812 542 0 1538 1047 693 1536 864 8737525 
+~ Move `main_dlg_cur` `proe_win` \
+9 811 545 0 1538 1047 693 1536 864 8737534 
+~ Move `main_dlg_cur` `proe_win` \
+9 810 547 0 1538 1047 693 1536 864 8737544 
+~ Move `main_dlg_cur` `proe_win` \
+9 808 551 0 1538 1047 693 1536 864 8737555 
+~ Move `main_dlg_cur` `proe_win` \
+9 806 555 0 1538 1047 693 1536 864 8737565 
+~ Move `main_dlg_cur` `proe_win` \
+9 804 560 0 1538 1047 693 1536 864 8737573 
+~ Move `main_dlg_cur` `proe_win` \
+9 802 564 0 1538 1047 693 1536 864 8737582 
+~ Move `main_dlg_cur` `proe_win` \
+9 799 571 0 1538 1047 693 1536 864 8737593 
+~ Move `main_dlg_cur` `proe_win` \
+9 795 577 0 1538 1047 693 1536 864 8737610 
+~ Move `main_dlg_cur` `proe_win` \
+9 792 581 0 1538 1047 693 1536 864 8737620 
+~ Move `main_dlg_cur` `proe_win` \
+9 790 585 0 1538 1047 693 1536 864 8737630 
+~ Move `main_dlg_cur` `proe_win` \
+9 787 588 0 1538 1047 693 1536 864 8737642 
+~ Move `main_dlg_cur` `proe_win` \
+9 787 592 0 1026 1047 693 1536 864 8737653 
+~ Move `main_dlg_cur` `proe_win` \
+9 785 592 0 514 1047 693 1536 864 8737661 
+~ Move `main_dlg_cur` `proe_win` \
+9 785 593 0 1026 1047 693 1536 864 8737669 
+~ Move `main_dlg_cur` `proe_win` \
+9 785 594 0 1026 1047 693 1536 864 8737679 
+~ Move `main_dlg_cur` `proe_win` \
+9 785 595 0 1026 1047 693 1536 864 8737688 
+~ Move `main_dlg_cur` `proe_win` \
+9 784 596 0 1538 1047 693 1536 864 8737696 
+~ Move `main_dlg_cur` `proe_win` \
+9 784 596 0 2 1047 693 1536 864 8737816 
+~ Move `main_dlg_cur` `proe_win` \
+9 784 597 0 1026 1047 693 1536 864 8737821 
+~ Move `main_dlg_cur` `proe_win` \
+9 784 598 0 1026 1047 693 1536 864 8737826 
+~ Move `main_dlg_cur` `proe_win` \
+9 785 599 0 1538 1047 693 1536 864 8737840 
+~ Move `main_dlg_cur` `proe_win` \
+9 784 601 0 1538 1047 693 1536 864 8737848 
+~ Move `main_dlg_cur` `proe_win` \
+9 784 603 0 1026 1047 693 1536 864 8737855 
+~ Move `main_dlg_cur` `proe_win` \
+9 784 604 0 1026 1047 693 1536 864 8737866 
+~ Move `main_dlg_cur` `proe_win` \
+9 785 606 0 1538 1047 693 1536 864 8737874 
+~ Move `main_dlg_cur` `proe_win` \
+9 785 607 0 1026 1047 693 1536 864 8737880 
+~ Move `main_dlg_cur` `proe_win` \
+9 786 608 0 1538 1047 693 1536 864 8737891 
+~ Move `main_dlg_cur` `proe_win` \
+9 786 608 0 2 1047 693 1536 864 8737900 
+~ Move `main_dlg_cur` `proe_win` \
+9 786 609 0 1026 1047 693 1536 864 8737909 
+~ Move `main_dlg_cur` `proe_win` \
+9 787 609 0 514 1047 693 1536 864 8737916 
+~ Move `main_dlg_cur` `proe_win` \
+9 787 611 0 1026 1047 693 1536 864 8737926 
+~ Move `main_dlg_cur` `proe_win` \
+9 788 611 0 514 1047 693 1536 864 8737936 
+~ Move `main_dlg_cur` `proe_win` \
+9 788 611 0 2 1047 693 1536 864 8737960 
+~ Move `main_dlg_cur` `proe_win` \
+9 789 612 0 1538 1047 693 1536 864 8737967 
+~ Move `main_dlg_cur` `proe_win` \
+9 789 611 0 1026 1047 693 1536 864 8737976 
+~ Move `main_dlg_cur` `proe_win` \
+9 790 612 0 1538 1047 693 1536 864 8737984 
+~ Move `main_dlg_cur` `proe_win` \
+9 791 612 0 514 1047 693 1536 864 8737994 
+~ Move `main_dlg_cur` `proe_win` \
+9 793 612 0 514 1047 693 1536 864 8738003 
+~ Move `main_dlg_cur` `proe_win` \
+9 793 613 0 1026 1047 693 1536 864 8738010 
+~ Move `main_dlg_cur` `proe_win` \
+9 795 612 0 1538 1047 693 1536 864 8738020 
+~ Move `main_dlg_cur` `proe_win` \
+9 795 613 0 1026 1047 693 1536 864 8738026 
+~ Move `main_dlg_cur` `proe_win` \
+9 797 612 0 1538 1047 693 1536 864 8738032 
+~ Move `main_dlg_cur` `proe_win` \
+9 798 612 0 514 1047 693 1536 864 8738038 
+~ Move `main_dlg_cur` `proe_win` \
+9 800 611 0 1538 1047 693 1536 864 8738044 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 611 0 514 1047 693 1536 864 8738050 
+~ Move `main_dlg_cur` `proe_win` \
+9 804 608 0 1538 1047 693 1536 864 8738064 
+~ Move `main_dlg_cur` `proe_win` \
+9 808 607 0 1538 1047 693 1536 864 8738077 
+~ Move `main_dlg_cur` `proe_win` \
+9 810 605 0 1538 1047 693 1536 864 8738085 
+~ Move `main_dlg_cur` `proe_win` \
+9 811 604 0 1538 1047 693 1536 864 8738091 
+~ Move `main_dlg_cur` `proe_win` \
+9 813 603 0 1538 1047 693 1536 864 8738097 
+~ Move `main_dlg_cur` `proe_win` \
+9 815 601 0 1538 1047 693 1536 864 8738105 
+~ Move `main_dlg_cur` `proe_win` \
+9 815 600 0 1026 1047 693 1536 864 8738111 
+~ Move `main_dlg_cur` `proe_win` \
+9 819 598 0 1538 1047 693 1536 864 8738120 
+~ Move `main_dlg_cur` `proe_win` \
+9 820 597 0 1538 1047 693 1536 864 8738127 
+~ Move `main_dlg_cur` `proe_win` \
+9 822 596 0 1538 1047 693 1536 864 8738134 
+~ Move `main_dlg_cur` `proe_win` \
+9 824 594 0 1538 1047 693 1536 864 8738141 
+~ Move `main_dlg_cur` `proe_win` \
+9 824 592 0 1026 1047 693 1536 864 8738148 
+~ Move `main_dlg_cur` `proe_win` \
+9 827 589 0 1538 1047 693 1536 864 8738159 
+~ Move `main_dlg_cur` `proe_win` \
+9 828 586 0 1538 1047 693 1536 864 8738168 
+~ Move `main_dlg_cur` `proe_win` \
+9 830 584 0 1538 1047 693 1536 864 8738175 
+~ Move `main_dlg_cur` `proe_win` \
+9 831 583 0 1538 1047 693 1536 864 8738181 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 577 0 1538 1047 693 1536 864 8738193 
+~ Move `main_dlg_cur` `proe_win` \
+9 834 575 0 1538 1047 693 1536 864 8738204 
+~ Move `main_dlg_cur` `proe_win` \
+9 835 573 0 1538 1047 693 1536 864 8738214 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 571 0 1538 1047 693 1536 864 8738221 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 570 0 1026 1047 693 1536 864 8738227 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 568 0 1538 1047 693 1536 864 8738238 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 566 0 1026 1047 693 1536 864 8738247 
+~ Move `main_dlg_cur` `proe_win` \
+9 838 564 0 1538 1047 693 1536 864 8738259 
+~ Move `main_dlg_cur` `proe_win` \
+9 838 563 0 1026 1047 693 1536 864 8738269 
+~ Move `main_dlg_cur` `proe_win` \
+9 838 562 0 1026 1047 693 1536 864 8738275 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 561 0 1538 1047 693 1536 864 8738281 
+~ Move `main_dlg_cur` `proe_win` \
+9 840 561 0 514 1047 693 1536 864 8738287 
+~ Move `main_dlg_cur` `proe_win` \
+9 840 560 0 1026 1047 693 1536 864 8738294 
+~ Move `main_dlg_cur` `proe_win` \
+9 840 559 0 1026 1047 693 1536 864 8738310 
+~ Move `main_dlg_cur` `proe_win` \
+9 840 558 0 1026 1047 693 1536 864 8738318 
+~ Move `main_dlg_cur` `proe_win` \
+9 840 557 0 1026 1047 693 1536 864 8738326 
+~ Move `main_dlg_cur` `proe_win` \
+9 841 556 0 1538 1047 693 1536 864 8738334 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 555 0 1538 1047 693 1536 864 8738345 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 554 0 1026 1047 693 1536 864 8738353 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 552 0 1026 1047 693 1536 864 8738361 
+~ Move `main_dlg_cur` `proe_win` \
+9 843 551 0 1538 1047 693 1536 864 8738372 
+~ Move `main_dlg_cur` `proe_win` \
+9 844 549 0 1538 1047 693 1536 864 8738380 
+~ Move `main_dlg_cur` `proe_win` \
+9 844 548 0 1026 1047 693 1536 864 8738386 
+~ Move `main_dlg_cur` `proe_win` \
+9 845 548 0 514 1047 693 1536 864 8738392 
+~ Move `main_dlg_cur` `proe_win` \
+9 844 546 0 1538 1047 693 1536 864 8738398 
+~ Move `main_dlg_cur` `proe_win` \
+9 845 545 0 1538 1047 693 1536 864 8738409 
+~ Move `main_dlg_cur` `proe_win` \
+9 845 544 0 1026 1047 693 1536 864 8738416 
+~ Move `main_dlg_cur` `proe_win` \
+9 846 543 0 1538 1047 693 1536 864 8738424 
+~ Move `main_dlg_cur` `proe_win` \
+9 846 542 0 1026 1047 693 1536 864 8738434 
+~ Move `main_dlg_cur` `proe_win` \
+9 846 541 0 1026 1047 693 1536 864 8738445 
+~ Move `main_dlg_cur` `proe_win` \
+9 846 540 0 1026 1047 693 1536 864 8738452 
+~ Move `main_dlg_cur` `proe_win` \
+9 846 539 0 1026 1047 693 1536 864 8738461 
+~ Move `main_dlg_cur` `proe_win` \
+9 846 538 0 1026 1047 693 1536 864 8738497 
+~ Move `main_dlg_cur` `proe_win` \
+9 846 537 0 1026 1047 693 1536 864 8738545 
+~ Move `main_dlg_cur` `proe_win` \
+9 846 536 0 1026 1047 693 1536 864 8738551 
+~ Move `main_dlg_cur` `proe_win` \
+9 846 535 0 1026 1047 693 1536 864 8738565 
+~ Move `main_dlg_cur` `proe_win` \
+9 846 535 0 2 1047 693 1536 864 8738593 
+~ Move `main_dlg_cur` `proe_win` \
+9 845 535 0 514 1047 693 1536 864 8738613 
+~ Move `main_dlg_cur` `proe_win` \
+9 844 535 0 514 1047 693 1536 864 8738621 
+~ Move `main_dlg_cur` `proe_win` \
+9 844 535 0 2 1047 693 1536 864 8738627 
+~ Move `main_dlg_cur` `proe_win` \
+9 843 535 0 514 1047 693 1536 864 8738641 
+~ Move `main_dlg_cur` `proe_win` \
+9 842 535 0 514 1047 693 1536 864 8738648 
+~ Move `main_dlg_cur` `proe_win` \
+9 841 535 0 514 1047 693 1536 864 8738661 
+~ Move `main_dlg_cur` `proe_win` \
+9 840 536 0 1538 1047 693 1536 864 8738671 
+~ Move `main_dlg_cur` `proe_win` \
+9 838 537 0 1538 1047 693 1536 864 8738679 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 539 0 1538 1047 693 1536 864 8738689 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 541 0 1538 1047 693 1536 864 8738698 
+~ Move `main_dlg_cur` `proe_win` \
+9 835 544 0 1538 1047 693 1536 864 8738712 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 546 0 1538 1047 693 1536 864 8738726 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 547 0 1026 1047 693 1536 864 8738734 
+~ Move `main_dlg_cur` `proe_win` \
+9 832 549 0 1538 1047 693 1536 864 8738744 
+~ Move `main_dlg_cur` `proe_win` \
+9 830 551 0 1538 1047 693 1536 864 8738752 
+~ Move `main_dlg_cur` `proe_win` \
+9 829 552 0 1538 1047 693 1536 864 8738759 
+~ Move `main_dlg_cur` `proe_win` \
+9 829 555 0 1026 1047 693 1536 864 8738769 
+~ Move `main_dlg_cur` `proe_win` \
+9 828 557 0 1538 1047 693 1536 864 8738779 
+~ Move `main_dlg_cur` `proe_win` \
+9 827 558 0 1538 1047 693 1536 864 8738787 
+~ Move `main_dlg_cur` `proe_win` \
+9 827 560 0 1026 1047 693 1536 864 8738795 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 563 0 1538 1047 693 1536 864 8738806 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 565 0 1026 1047 693 1536 864 8738813 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 566 0 1026 1047 693 1536 864 8738820 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 567 0 1026 1047 693 1536 864 8738826 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 567 0 2 1047 693 1536 864 8738833 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 569 0 1026 1047 693 1536 864 8738843 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 571 0 1026 1047 693 1536 864 8738853 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 572 0 1026 1047 693 1536 864 8738860 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 573 0 1026 1047 693 1536 864 8738868 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 575 0 1026 1047 693 1536 864 8738877 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 576 0 1026 1047 693 1536 864 8738885 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 578 0 1026 1047 693 1536 864 8738896 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 579 0 1026 1047 693 1536 864 8738906 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 581 0 1026 1047 693 1536 864 8738915 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 583 0 1026 1047 693 1536 864 8738923 
+~ Move `main_dlg_cur` `proe_win` \
+9 825 584 0 1538 1047 693 1536 864 8738931 
+~ Move `main_dlg_cur` `proe_win` \
+9 824 587 0 1538 1047 693 1536 864 8738941 
+~ Move `main_dlg_cur` `proe_win` \
+9 824 588 0 1026 1047 693 1536 864 8738948 
+~ Move `main_dlg_cur` `proe_win` \
+9 824 589 0 1026 1047 693 1536 864 8738958 
+~ Move `main_dlg_cur` `proe_win` \
+9 823 592 0 1538 1047 693 1536 864 8738970 
+~ Move `main_dlg_cur` `proe_win` \
+9 821 595 0 1538 1047 693 1536 864 8738981 
+~ Move `main_dlg_cur` `proe_win` \
+9 820 598 0 1538 1047 693 1536 864 8738993 
+~ Move `main_dlg_cur` `proe_win` \
+9 818 602 0 1538 1047 693 1536 864 8739002 
+~ Move `main_dlg_cur` `proe_win` \
+9 817 604 0 1538 1047 693 1536 864 8739010 
+~ Move `main_dlg_cur` `proe_win` \
+9 816 607 0 1538 1047 693 1536 864 8739018 
+~ Move `main_dlg_cur` `proe_win` \
+9 815 610 0 1538 1047 693 1536 864 8739027 
+~ Move `main_dlg_cur` `proe_win` \
+9 813 613 0 1538 1047 693 1536 864 8739037 
+~ Move `main_dlg_cur` `proe_win` \
+9 812 615 0 1538 1047 693 1536 864 8739043 
+~ Move `main_dlg_cur` `proe_win` \
+9 810 618 0 1538 1047 693 1536 864 8739050 
+~ Move `main_dlg_cur` `proe_win` \
+9 808 620 0 1538 1047 693 1536 864 8739061 
+~ Move `main_dlg_cur` `proe_win` \
+9 806 622 0 1538 1047 693 1536 864 8739067 
+~ Move `main_dlg_cur` `proe_win` \
+9 804 624 0 1538 1047 693 1536 864 8739075 
+~ Move `main_dlg_cur` `proe_win` \
+9 802 627 0 1538 1047 693 1536 864 8739088 
+~ Move `main_dlg_cur` `proe_win` \
+9 798 630 0 1538 1047 693 1536 864 8739098 
+~ Move `main_dlg_cur` `proe_win` \
+9 796 632 0 1538 1047 693 1536 864 8739109 
+~ Move `main_dlg_cur` `proe_win` \
+9 794 634 0 1538 1047 693 1536 864 8739120 
+~ Move `main_dlg_cur` `proe_win` \
+9 792 636 0 1538 1047 693 1536 864 8739126 
+~ Move `main_dlg_cur` `proe_win` \
+9 789 638 0 1538 1047 693 1536 864 8739133 
+~ Move `main_dlg_cur` `proe_win` \
+9 787 640 0 1538 1047 693 1536 864 8739143 
+~ Move `main_dlg_cur` `proe_win` \
+9 787 641 0 1026 1047 693 1536 864 8739151 
+~ Move `main_dlg_cur` `proe_win` \
+9 785 642 0 1538 1047 693 1536 864 8739160 
+~ Move `main_dlg_cur` `proe_win` \
+9 783 643 0 1538 1047 693 1536 864 8739170 
+~ Move `main_dlg_cur` `proe_win` \
+9 782 644 0 1538 1047 693 1536 864 8739176 
+~ Move `main_dlg_cur` `proe_win` \
+9 781 645 0 1538 1047 693 1536 864 8739184 
+~ Move `main_dlg_cur` `proe_win` \
+9 779 646 0 1538 1047 693 1536 864 8739195 
+~ Move `main_dlg_cur` `proe_win` \
+9 777 648 0 1538 1047 693 1536 864 8739206 
+~ Move `main_dlg_cur` `proe_win` \
+9 777 649 0 1026 1047 693 1536 864 8739215 
+~ Move `main_dlg_cur` `proe_win` \
+9 775 649 0 514 1047 693 1536 864 8739223 
+~ Move `main_dlg_cur` `proe_win` \
+9 775 650 0 1026 1047 693 1536 864 8739230 
+~ Move `main_dlg_cur` `proe_win` \
+9 774 651 0 1538 1047 693 1536 864 8739241 
+~ Move `main_dlg_cur` `proe_win` \
+9 773 651 0 514 1047 693 1536 864 8739247 
+~ Move `main_dlg_cur` `proe_win` \
+9 772 653 0 1538 1047 693 1536 864 8739256 
+~ Move `main_dlg_cur` `proe_win` \
+9 771 654 0 1538 1047 693 1536 864 8739264 
+~ Move `main_dlg_cur` `proe_win` \
+9 770 655 0 1538 1047 693 1536 864 8739271 
+~ Move `main_dlg_cur` `proe_win` \
+9 769 656 0 1538 1047 693 1536 864 8739277 
+~ Move `main_dlg_cur` `proe_win` \
+9 767 657 0 1538 1047 693 1536 864 8739287 
+~ Move `main_dlg_cur` `proe_win` \
+9 767 658 0 1026 1047 693 1536 864 8739295 
+~ Move `main_dlg_cur` `proe_win` \
+9 765 659 0 1538 1047 693 1536 864 8739305 
+~ Move `main_dlg_cur` `proe_win` \
+9 764 660 0 1538 1047 693 1536 864 8739318 
+~ Move `main_dlg_cur` `proe_win` \
+9 764 660 0 2 1047 693 1536 864 8739325 
+~ Move `main_dlg_cur` `proe_win` \
+9 763 661 0 1538 1047 693 1536 864 8739336 
+~ Move `main_dlg_cur` `proe_win` \
+9 764 662 0 1538 1047 693 1536 864 8739346 
+~ Move `main_dlg_cur` `proe_win` \
+9 764 663 0 1026 1047 693 1536 864 8739354 
+~ Move `main_dlg_cur` `proe_win` \
+9 762 663 0 514 1047 693 1536 864 8739362 
+~ Move `main_dlg_cur` `proe_win` \
+9 761 663 0 514 1047 693 1536 864 8739381 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 761 663 0 0 1047 693 1536 864 8739465 
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 823 358 0 514 1047 693 1536 864 8739991 
+~ Move `main_dlg_cur` `proe_win` \
+9 824 359 0 1538 1047 693 1536 864 8739993 
+~ Move `main_dlg_cur` `proe_win` \
+9 824 360 0 1026 1047 693 1536 864 8739997 
+~ Move `main_dlg_cur` `proe_win` \
+9 825 360 0 514 1047 693 1536 864 8740001 
+~ Move `main_dlg_cur` `proe_win` \
+9 825 361 0 1026 1047 693 1536 864 8740005 
+~ Move `main_dlg_cur` `proe_win` \
+9 825 363 0 1026 1047 693 1536 864 8740009 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 364 0 1538 1047 693 1536 864 8740013 
+~ Move `main_dlg_cur` `proe_win` \
+9 828 368 0 1538 1047 693 1536 864 8740024 
+~ Move `main_dlg_cur` `proe_win` \
+9 829 371 0 1538 1047 693 1536 864 8740031 
+~ Move `main_dlg_cur` `proe_win` \
+9 830 374 0 1538 1047 693 1536 864 8740040 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 379 0 1538 1047 693 1536 864 8740050 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 382 0 1026 1047 693 1536 864 8740057 
+~ Move `main_dlg_cur` `proe_win` \
+9 834 385 0 1538 1047 693 1536 864 8740066 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 390 0 1538 1047 693 1536 864 8740078 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 395 0 1026 1047 693 1536 864 8740092 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 400 0 1538 1047 693 1536 864 8740103 
+~ Move `main_dlg_cur` `proe_win` \
+9 838 404 0 1538 1047 693 1536 864 8740116 
+~ Move `main_dlg_cur` `proe_win` \
+9 838 408 0 1026 1047 693 1536 864 8740125 
+~ Move `main_dlg_cur` `proe_win` \
+9 838 409 0 1026 1047 693 1536 864 8740131 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 412 0 1538 1047 693 1536 864 8740138 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 412 0 2 1047 693 1536 864 8740144 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 414 0 1026 1047 693 1536 864 8740151 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 416 0 1026 1047 693 1536 864 8740162 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 418 0 1026 1047 693 1536 864 8740172 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 420 0 1026 1047 693 1536 864 8740181 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 421 0 1026 1047 693 1536 864 8740192 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 423 0 1026 1047 693 1536 864 8740200 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 424 0 1026 1047 693 1536 864 8740221 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 425 0 1026 1047 693 1536 864 8740228 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 427 0 1026 1047 693 1536 864 8740241 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 428 0 1026 1047 693 1536 864 8740251 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 429 0 1026 1047 693 1536 864 8740260 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 431 0 1026 1047 693 1536 864 8740270 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 432 0 1026 1047 693 1536 864 8740277 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 432 0 2 1047 693 1536 864 8740285 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 434 0 1026 1047 693 1536 864 8740295 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 435 0 1026 1047 693 1536 864 8740304 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 436 0 1026 1047 693 1536 864 8740318 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 436 0 2 1047 693 1536 864 8740337 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 437 0 1026 1047 693 1536 864 8740346 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 438 0 1026 1047 693 1536 864 8740357 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 439 0 1026 1047 693 1536 864 8740370 
+~ Move `main_dlg_cur` `proe_win` \
+9 839 440 0 1026 1047 693 1536 864 8740382 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 439 0 1538 1047 693 1536 864 8740389 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 440 0 1026 1047 693 1536 864 8740397 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 441 0 1026 1047 693 1536 864 8740405 
+~ Move `main_dlg_cur` `proe_win` \
+9 837 442 0 1026 1047 693 1536 864 8740411 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 444 0 1538 1047 693 1536 864 8740418 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 445 0 1026 1047 693 1536 864 8740426 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 448 0 1026 1047 693 1536 864 8740437 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 448 0 2 1047 693 1536 864 8740444 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 451 0 1026 1047 693 1536 864 8740453 
+~ Move `main_dlg_cur` `proe_win` \
+9 836 455 0 1026 1047 693 1536 864 8740465 
+~ Move `main_dlg_cur` `proe_win` \
+9 833 460 0 1538 1047 693 1536 864 8740476 
+~ Move `main_dlg_cur` `proe_win` \
+9 832 469 0 1538 1047 693 1536 864 8740494 
+~ Move `main_dlg_cur` `proe_win` \
+9 831 473 0 1538 1047 693 1536 864 8740502 
+~ Move `main_dlg_cur` `proe_win` \
+9 829 477 0 1538 1047 693 1536 864 8740509 
+~ Move `main_dlg_cur` `proe_win` \
+9 829 482 0 1026 1047 693 1536 864 8740519 
+~ Move `main_dlg_cur` `proe_win` \
+9 827 489 0 1538 1047 693 1536 864 8740531 
+~ Move `main_dlg_cur` `proe_win` \
+9 826 495 0 1538 1047 693 1536 864 8740541 
+~ Move `main_dlg_cur` `proe_win` \
+9 825 504 0 1538 1047 693 1536 864 8740550 
+~ Move `main_dlg_cur` `proe_win` \
+9 824 509 0 1538 1047 693 1536 864 8740559 
+~ Move `main_dlg_cur` `proe_win` \
+9 823 518 0 1538 1047 693 1536 864 8740570 
+~ Move `main_dlg_cur` `proe_win` \
+9 821 525 0 1538 1047 693 1536 864 8740579 
+~ Move `main_dlg_cur` `proe_win` \
+9 819 533 0 1538 1047 693 1536 864 8740591 
+~ Move `main_dlg_cur` `proe_win` \
+9 818 540 0 1538 1047 693 1536 864 8740601 
+~ Move `main_dlg_cur` `proe_win` \
+9 816 548 0 1538 1047 693 1536 864 8740615 
+~ Move `main_dlg_cur` `proe_win` \
+9 816 554 0 1026 1047 693 1536 864 8740626 
+~ Move `main_dlg_cur` `proe_win` \
+9 815 559 0 1538 1047 693 1536 864 8740642 
+~ Move `main_dlg_cur` `proe_win` \
+9 815 564 0 1026 1047 693 1536 864 8740651 
+~ Move `main_dlg_cur` `proe_win` \
+9 813 568 0 1538 1047 693 1536 864 8740664 
+~ Move `main_dlg_cur` `proe_win` \
+9 813 572 0 1026 1047 693 1536 864 8740675 
+~ Move `main_dlg_cur` `proe_win` \
+9 812 575 0 1538 1047 693 1536 864 8740687 
+~ Move `main_dlg_cur` `proe_win` \
+9 811 578 0 1538 1047 693 1536 864 8740698 
+~ Move `main_dlg_cur` `proe_win` \
+9 810 579 0 1538 1047 693 1536 864 8740710 
+~ Move `main_dlg_cur` `proe_win` \
+9 809 581 0 1538 1047 693 1536 864 8740721 
+~ Move `main_dlg_cur` `proe_win` \
+9 809 583 0 1026 1047 693 1536 864 8740729 
+~ Move `main_dlg_cur` `proe_win` \
+9 807 585 0 1538 1047 693 1536 864 8740738 
+~ Move `main_dlg_cur` `proe_win` \
+9 807 587 0 1026 1047 693 1536 864 8740747 
+~ Move `main_dlg_cur` `proe_win` \
+9 807 589 0 1026 1047 693 1536 864 8740759 
+~ Move `main_dlg_cur` `proe_win` \
+9 806 591 0 1538 1047 693 1536 864 8740771 
+~ Move `main_dlg_cur` `proe_win` \
+9 805 592 0 1538 1047 693 1536 864 8740777 
+~ Move `main_dlg_cur` `proe_win` \
+9 804 595 0 1538 1047 693 1536 864 8740790 
+~ Move `main_dlg_cur` `proe_win` \
+9 804 596 0 1026 1047 693 1536 864 8740800 
+~ Move `main_dlg_cur` `proe_win` \
+9 804 599 0 1026 1047 693 1536 864 8740810 
+~ Move `main_dlg_cur` `proe_win` \
+9 804 600 0 1026 1047 693 1536 864 8740821 
+~ Move `main_dlg_cur` `proe_win` \
+9 803 602 0 1538 1047 693 1536 864 8740827 
+~ Move `main_dlg_cur` `proe_win` \
+9 802 604 0 1538 1047 693 1536 864 8740836 
+~ Move `main_dlg_cur` `proe_win` \
+9 802 607 0 1026 1047 693 1536 864 8740843 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 611 0 1538 1047 693 1536 864 8740855 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 613 0 1026 1047 693 1536 864 8740863 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 616 0 1026 1047 693 1536 864 8740870 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 617 0 1026 1047 693 1536 864 8740876 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 620 0 1026 1047 693 1536 864 8740884 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 623 0 1026 1047 693 1536 864 8740896 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 628 0 1026 1047 693 1536 864 8740906 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 629 0 1026 1047 693 1536 864 8740913 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 631 0 1026 1047 693 1536 864 8740922 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 632 0 1026 1047 693 1536 864 8740929 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 634 0 1026 1047 693 1536 864 8740941 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 635 0 1026 1047 693 1536 864 8740948 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 635 0 2 1047 693 1536 864 8740957 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 637 0 1026 1047 693 1536 864 8740967 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 638 0 1026 1047 693 1536 864 8740975 
+~ Move `main_dlg_cur` `proe_win` \
+9 801 639 0 1026 1047 693 1536 864 8740996 
+~ Move `main_dlg_cur` `proe_win` \
+9 802 640 0 1538 1047 693 1536 864 8741044 
+~ Move `main_dlg_cur` `proe_win` \
+9 803 640 0 514 1047 693 1536 864 8741060 
+~ Move `main_dlg_cur` `proe_win` \
+9 803 639 0 1026 1047 693 1536 864 8741071 
+~ Move `main_dlg_cur` `proe_win` \
+9 805 639 0 514 1047 693 1536 864 8741080 
+~ Move `main_dlg_cur` `proe_win` \
+9 807 638 0 1538 1047 693 1536 864 8741089 
+~ Move `main_dlg_cur` `proe_win` \
+9 808 637 0 1538 1047 693 1536 864 8741095 
+~ Move `main_dlg_cur` `proe_win` \
+9 811 636 0 1538 1047 693 1536 864 8741103 
+~ Move `main_dlg_cur` `proe_win` \
+9 813 635 0 1538 1047 693 1536 864 8741114 
+~ Move `main_dlg_cur` `proe_win` \
+9 815 635 0 514 1047 693 1536 864 8741123 
+~ Move `main_dlg_cur` `proe_win` \
+9 816 634 0 1538 1047 693 1536 864 8741131 
+~ Move `main_dlg_cur` `proe_win` \
+9 817 633 0 1538 1047 693 1536 864 8741139 
+~ Move `main_dlg_cur` `proe_win` \
+9 819 632 0 1538 1047 693 1536 864 8741149 
+~ Move `main_dlg_cur` `proe_win` \
+9 820 633 0 1538 1047 693 1536 864 8741163 
+~ Move `main_dlg_cur` `proe_win` \
+9 822 632 0 1538 1047 693 1536 864 8741174 
+~ Move `main_dlg_cur` `proe_win` \
+9 829 628 0 1538 1047 693 1536 864 8741226 
+~ Move `main_dlg_cur` `proe_win` \
+9 829 627 0 1026 1047 693 1536 864 8741240 
+~ Move `main_dlg_cur` `proe_win` \
+9 830 627 0 514 1047 693 1536 864 8741247 
+~ Move `main_dlg_cur` `proe_win` \
+9 830 626 0 1026 1047 693 1536 864 8741280 
+~ Move `main_dlg_cur` `proe_win` \
+9 830 625 0 1026 1047 693 1536 864 8741320 
+~ Move `main_dlg_cur` `proe_win` \
+9 831 624 0 1538 1047 693 1536 864 8741337 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 831 624 0 0 1047 693 1536 864 8741361 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 749 533 393216 0 1047 693 1536 864 8742146 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 749 533 393216 0 1047 693 1536 864 8742173 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 749 533 393216 0 1047 693 1536 864 8742209 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 727 512 458752 1536 1047 693 1536 864 8742557 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 724 507 458752 1536 1047 693 1536 864 8742583 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 719 499 458752 1536 1047 693 1536 864 8742612 
+~ Command `ProCmdEnvAnnotElemDisp` 0 
+~ Activate `lic_exitdlg` `Save`
+!%CPВы хотите сохранить Сборка >> SBORKA1 ? [Да]
+!%TR
+
+<ESC>  
+!%CPВы хотите сохранить Сборка >> SBORKA2_A ? [Да]
+!%TR
+
+<ESC>  
+~ Activate `lic_exitdlg` `Exit`
+! Message Dialog: Warning
+!               : Creo Elements/Pro будет остановлен и любая несохраненная работа будет утеряна.
+!               : Вы действительно хотите выйти?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

@@ -1,0 +1,110 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 0.960000 1396 0 0 810 1536 0 0 864 13
+!mem_use INCREASE Blocks 215110, AppSize 36431738, SysSize 43913216
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG). 
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG). 
+< 0 0.821333 1178 0 0 693 1536 0 0 864 13
+< 0 0.821333 1060 0 0 693 1536 0 0 864 13
+!%CIДобро пожаловать в Creo Elements/Pro 5.0.
+< 0 0.821333 1062 0 0 693 1536 0 0 864 13
+< 0 0.821333 1075 0 0 693 1536 0 0 864 13
+~ Activate `install_component` `Exit`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1536 0 0 864 13
+~ Trail `UI Desktop` `UI Desktop` \
+ `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `desktop_pb`
+~ Trail `UI Desktop` `UI Desktop` \
+ `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `Новая папка`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `Новая папка`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `CanSat`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `CanSat`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `Гравицапа 2017-2018`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `Гравицапа 2017-2018`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `Конструкция`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `Конструкция`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `сборка 1`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `сборка 1`
+~ Select `file_open` `Ph_list.Filelist` \
+1  `pin.prt`
+~ Activate `file_open` `Ph_list.Filelist` \
+1  `pin.prt`
+!Command ProCmdModelOpenExe was pushed from the software.
+!06-Dec-17 17:21:13  Start C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\pin.prt.1
+!06-Dec-17 17:21:13  End   C:\Users\loyal\Desktop\Новая папка\CanSat\Гравицапа 2017-2018\Конструкция\сборка 1\pin.prt.1
+< 0 0.821333 1047 0 0 693 1536 0 0 864 13
+~ Timer `UI Desktop` `UI Desktop` \
+ `EmbedBrowserTimer`
+~ Wheel `main_dlg_cur` `proe_win` \
+9 488 266 393216 1536 1047 693 1536 864 65468 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 478 268 458752 0 1047 693 1536 864 65847 
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` \
+1  `node2`
+!ВЫТЯГИВАНИЕ 1
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` \
+ `node2`
+~ PopupOver `main_dlg_cur` `ActionMenu` \
+1  `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Trail `UI Desktop` `UI Desktop` \
+ `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `Redefine`
+!sket_eps       7.700573066
+!sket_eps      0.5356047734
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off. Feature title : ВЫСТУП: Вытянуть
+!ODUI session started.
+!%CPВыберите эскиз. (Если предпочтителен внутренний эскиз, может использоваться опция "Править" в панели Размещение.)
+< 0 0.754963 1047 0 0 637 1536 0 0 864 13
+< 0 0.754963 1034 0 0 637 1536 0 0 864 13
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Elements/Pro будет остановлен и любая несохраненная работа будет утеряна.
+!               : Вы действительно хотите выйти?
+~ Activate `UI Message Dialog` `no`
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Activate `main_dlg_cur` `dashInst0.Quit`
+!ODUI session finished.
+< 0 0.754963 1047 0 0 637 1536 0 0 864 13
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Elements/Pro будет остановлен и любая несохраненная работа будет утеряна.
+!               : Вы действительно хотите выйти?
+~ Activate `UI Message Dialog` `UI Message Dialog`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Activate `UI Message Dialog` `no`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Elements/Pro будет остановлен и любая несохраненная работа будет утеряна.
+!               : Вы действительно хотите выйти?
+~ Activate `UI Message Dialog` `no`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+~ Activate `lic_exitdlg` `lic_exitdlg`
+~ Activate `lic_exitdlg` `Exit`
+! Message Dialog: Warning
+!               : Creo Elements/Pro будет остановлен и любая несохраненная работа будет утеряна.
+!               : Вы действительно хотите выйти?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
